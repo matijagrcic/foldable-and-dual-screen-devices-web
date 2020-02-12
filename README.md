@@ -17,6 +17,14 @@ This repository contains useful information for web developers targeting foldabl
     - [React Native](#react-native)
   - [More info](#more-info)
   - [w3c](#w3c)
+  - [App Examples](#app-examples)
+    - [Contoso Travel app](#contoso-travel-app)
+    - [Contoso Foods app](#contoso-foods-app)
+    - [Xamarin TV App](#xamarin-tv-app)
+  - [SDK Samples](#sdk-samples)
+    - [Surface Duo SDK Samples](#surface-duo-sdk-samples)
+    - [Surface Duo Xamarin Android Samples](#surface-duo-xamarin-android-samples)
+    - [Surface Duo SDK Samples in Kotlin](#surface-duo-sdk-samples-in-kotlin)
 
 ## Announcements
 
@@ -103,8 +111,44 @@ This repository contains useful information for web developers targeting foldabl
 
 [Building hybrid applications with the WebView2 developer preview](https://blogs.windows.com/msedgedev/2019/06/18/building-hybrid-applications-with-the-webview2-developer-preview/#edeVSSBO2DE4QaYS.97)
 
-
 ## w3c
 
 [Proposing new CSS primitives to enable great web experiences on foldable & dual-screen devices](https://github.com/w3c/csswg-drafts/issues/4736)
+
+## App Examples
+
+### Contoso Travel app
+
+[Contoso Travel app](https://github.com/microsoft/DevDay2020KeynoteDemoUWP)
+
+>Contoso Travel app that is designed to work beautifully on a dual screen device as well as on desktop.
+
+### Contoso Foods app
+
+[Contoso Foods app](https://github.com/microsoftgraph/contoso-foods-dualscreen-sample)
+
+>Contoso Foods is a dual screen device demo app built around a consumer grocery shopping experience, powered by the Microsoft Graph Toolkit.
+
+### Xamarin TV App
+
+[Xamarin TV App (Developer Day 2020 Keynote Demo)](https://github.com/microsoft/DevDay2020KeynoteDemoXamarin)
+
+[Xamarin TV App](https://github.com/xamarin/app-xamarintv)
+
+>Dual-screen capable Xamarin TV app.
+
+
+## SDK Samples
+
+### Surface Duo SDK Samples
+
+[Surface Duo SDK Samples](https://github.com/microsoft/surface-duo-sdk-samples)
+
+### Surface Duo Xamarin Android Samples
+
+[Surface Duo Xamarin Android Samples](https://github.com/microsoft/surface-duo-sdk-xamarin-samples)
+
+### Surface Duo SDK Samples in Kotlin
+
+[Surface Duo SDK Samples in Kotlin](https://github.com/microsoft/surface-duo-sdk-samples-kotlin)
 
