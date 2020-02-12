@@ -1,6 +1,6 @@
 # Foldable and dual-screen devices on the Web
 
-This repository contains useful information for web developers targeting foldable and dual-screen devices.
+This repository contains useful information/notes for developers targeting foldable and dual-screen devices.
 
 - [Foldable and dual-screen devices on the Web](#foldable-and-dual-screen-devices-on-the-web)
   - [Announcements](#announcements)
