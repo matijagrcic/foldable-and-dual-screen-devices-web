@@ -25,6 +25,7 @@ This repository contains useful information/notes for developers targeting folda
     - [Surface Duo SDK Samples](#surface-duo-sdk-samples)
     - [Surface Duo Xamarin Android Samples](#surface-duo-xamarin-android-samples)
     - [Surface Duo SDK Samples in Kotlin](#surface-duo-sdk-samples-in-kotlin)
+  - [Extras](#extras)
 
 ## Announcements
 
@@ -137,7 +138,6 @@ This repository contains useful information/notes for developers targeting folda
 
 >Dual-screen capable Xamarin TV app.
 
-
 ## SDK Samples
 
 ### Surface Duo SDK Samples
@@ -152,3 +152,6 @@ This repository contains useful information/notes for developers targeting folda
 
 [Surface Duo SDK Samples in Kotlin](https://github.com/microsoft/surface-duo-sdk-samples-kotlin)
 
+## Extras
+
+[![First Look: Windows 10X Preview](https://img.youtube.com/vi/MHMLvelzWMU/0.jpg)](https://www.youtube.com/watch?v=MHMLvelzWMU)
