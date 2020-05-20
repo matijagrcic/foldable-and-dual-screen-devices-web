@@ -11,6 +11,7 @@ This repository contains useful information/notes for developers targeting folda
   - [Demos](#demos)
   - [Docs](#docs)
   - [Videos/Presentations](#videospresentations)
+    - [MS Build 2020](#ms-build-2020)
   - [Supported by](#supported-by)
     - [Edge](#edge)
     - [Xamarin.Forms](#xamarinforms)
@@ -113,6 +114,14 @@ This repository contains useful information/notes for developers targeting folda
 > learn about how Office is using React Native in their apps, and find out about investments across Microsoft to help developers using React Native.
 
 [![React Native EU 2019: Micah Lewis & EJ Layne - React Native @ Microsoft](https://img.youtube.com/vi/IUMWFExtDSg/0.jpg)](https://www.youtube.com/watch?v=IUMWFExtDSg)
+
+### MS Build 2020
+
+[![React Native: Build cross platform apps that target Windows, Mac, and more!](https://img.youtube.com/vi/QMFbrHZnvvw/0.jpg)](https://www.youtube.com/watch?v=QMFbrHZnvvw)
+
+[![How to bring your Android apps to Surface Duo with Xamarin](https://img.youtube.com/vi/dgGfxRtWrig/0.jpg)](https://www.youtube.com/watch?v=dgGfxRtWrig)
+
+[![WebView2: Bringing the best of the web to your native apps](https://img.youtube.com/vi/1s47pOpL4_s/0.jpg)](https://www.youtube.com/watch?v=1s47pOpL4_s)
 
 ## Supported by
 
